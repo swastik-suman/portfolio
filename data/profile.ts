@@ -46,12 +46,18 @@ export const techStack = [
   { name: "SQL",         category: "Language",  logoUrl: "https://cdn.simpleicons.org/mysql/white" },
   { name: "HTML",        category: "Language",  logoUrl: "https://cdn.simpleicons.org/html5" },
   { name: "CSS",         category: "Language",  logoUrl: "https://cdn.simpleicons.org/css/white" },
+  { name: "React",       category: "Language",  logoUrl: "https://cdn.simpleicons.org/react/white" },
+  { name: "Tailwind",    category: "Language",  logoUrl: "https://cdn.simpleicons.org/tailwindcss" },
+  { name: "MySQL",       category: "Language",  logoUrl: "https://cdn.simpleicons.org/mysql/white" },
   // AI / ML
   { name: "LangGraph",   category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/langchain/white" },
   { name: "FastAPI",     category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/fastapi" },
   { name: "ChromaDB",    category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/redis/white" },
   { name: "OpenAI",      category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/openai/white" },
   { name: "WebSocket",   category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/socketdotio/white" },
+  { name: "Gemini API",         category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/googlegemini/white" },
+  { name: "Groq API",           category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/groq/white" },
+  { name: "Prompt Engineering", category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/openai/white" },
   { name: "PostgreSQL",  category: "AI / ML",   logoUrl: "https://cdn.simpleicons.org/postgresql" },
   // BI & Data
   { name: "Power BI",    category: "BI & Data", logoUrl: "https://cdn.simpleicons.org/powerbi" },
