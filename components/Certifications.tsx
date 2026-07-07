@@ -36,16 +36,16 @@ export function Certifications() {
               <p className="text-sm text-text-dim mb-4">{cert.issuer}</p>
 
               {cert.pdfFile && (
-                
-                  href={cert.pdfFile}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 font-mono text-[11px] tracking-wider text-text-dim hover:text-active transition-colors"
-                >
-                  <span className="h-px w-4 bg-current" />
-                  VIEW CERTIFICATE
-                </a>
-              )}
+  
+    href={cert.pdfFile}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center gap-2 font-mono text-[11px] tracking-wider text-text-dim hover:text-active transition-colors"
+  >
+    <span className="h-px w-4 bg-current" />
+    VIEW CERTIFICATE
+  </a>
+)}
             </motion.div>
           ))}
         </div>
