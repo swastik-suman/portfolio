@@ -36,7 +36,7 @@ export function Contact() {
   return (
     <section id="contact" className="py-20 md:py-28 border-t border-line">
       <div className="mx-auto max-w-6xl px-6 sm:px-8">
-        <SectionLabel index="06" name="CONTACT" />
+        <SectionLabel index="07" name="CONTACT" />
 
         <div className="grid md:grid-cols-2 gap-12 items-start">
           <motion.div
