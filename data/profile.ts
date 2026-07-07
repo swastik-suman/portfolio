@@ -266,3 +266,67 @@ export const education = [
     detail: "78.9%",
   },
 ];
+// ── CERTIFICATIONS ──────────────────────────────────────────
+// pdfFile: upload your PDFs to public/certificates/ then fill the path here
+export const certifications = [
+  {
+    name: "CCNA: Introduction to Networks",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/CCNA-_Introduction_to_Networks_certificate_23052768-kiit-ac-in_51e9dd1a-5b26-467d-bf16-daea923aab85.pdf",
+  },
+  {
+    name: "CCNA: Switching, Routing, and Wireless Essentials",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_23052768-kiit-ac-in_d03576a9-fbf2-4812-bb49-8b21d6cba17b.pdf",
+  },
+  {
+    name: "CCNA: Enterprise Networking, Security, and Automation",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/CCNA-_Enterprise_Networking-_Security-_and_Automation_certificate_23052768-kiit-ac-in_25b10c0d-f142-41a7-8231-9747eac00b5a.pdf",
+  },
+  {
+    name: "Python Essentials 1",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Python_Essentials_1_certificate_23052768-kiit-ac-in_0181441c-46d2-49f4-bbe9-c6ed2c5748b3.pdf",
+  },
+  {
+    name: "Python Essentials 2",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Python_Essentials_2_certificate_23052768-kiit-ac-in_547a924f-d1bc-4207-98d0-524fcd11917b.pdf",
+  },
+  {
+    name: "Introduction to Modern AI",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Introduction_to_Modern_AI_certificate_23052768-kiit-ac-in_d57b21ed-3462-4064-a915-61e85d2b083d.pdf",
+  },
+  {
+    name: "Introduction to Data Science",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Introduction_to_Data_Science_certificate_23052768-kiit-ac-in_fd37acee-5459-4cde-a4ce-a92f28bf49af.pdf",
+  },
+  {
+    name: "Data Analytics Essentials",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Data_Analytics_Essentials_certificate_23052768-kiit-ac-in_6ef3309a-8308-400e-a630-7c1fdb0bb52a.pdf",
+  },
+  {
+    name: "Apply AI: Analyze Customer Reviews",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Apply_AI-_Analyze_Customer_Reviews_certificate_23052768-kiit-ac-in_d0c3f682-870c-4fa0-87d8-6d9df68e00f1.pdf",
+  },
+  {
+    name: "Getting Started with Cisco Packet Tracer",
+    issuer: "Cisco Networking Academy",
+    date: "June 2026",
+    pdfFile: "/certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate_23052768-kiit-ac-in_b99b4d75-5efa-4ff1-b83d-83261826714e.pdf",
+  },
+];
