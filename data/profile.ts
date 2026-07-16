@@ -276,6 +276,12 @@ export const education = [
 // pdfFile: upload your PDFs to public/certificates/ then fill the path here
 export const certifications = [
   {
+  name: "Introduction to DevOps",
+  issuer: "IBM / Coursera",
+  date: "July 2026",
+  pdfFile: "/certificates/Coursera UG3X38YKDM8R.pdf",
+},
+  {
     name: "CCNA: Introduction to Networks",
     issuer: "Cisco Networking Academy",
     date: "June 2026",
