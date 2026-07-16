@@ -263,13 +263,13 @@ export const education = [
     degree: "B.Tech, Computer Science Engineering",
     institution: "KIIT University",
     period: "2023 — 2027",
-    detail: "CGPA: 8.07",
+    detail: "CGPA: 8.87",
   },
   {
     degree: "Senior Secondary (10+2)",
     institution: "Kendriya Vidyalaya, ARC CBT",
     period: "2022 — 2023",
-    detail: "78.9%",
+    detail: "88.9%",
   },
 ];
 // ── CERTIFICATIONS ──────────────────────────────────────────
