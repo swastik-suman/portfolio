@@ -30,7 +30,7 @@ export const about = {
   highlights: [
     { label: "Agents orchestrated", value: "6+" },
     { label: "Custom DAX measures", value: "8+" },
-    { label: "CGPA", value: "8.07" },
+    { label: "CGPA", value: "8.87" },
     { label: "Hackathons competed", value: "4" },
   ],
 };
